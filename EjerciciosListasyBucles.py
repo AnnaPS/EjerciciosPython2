@@ -1,6 +1,5 @@
 #-*- coding: UTF-8 -*-
 #Ejercicio 1
-print("MAÑÁ")
 listado=[]
 
 for numero in range (100):
